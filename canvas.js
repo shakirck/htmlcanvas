@@ -59,10 +59,10 @@ var maxRadius = 40;
 
 var colorArray=[
 
-    '#233D4D',
-    '#FE7F2D',
-    '#FCCA46',
-    '#F25652',
+    '#F70025',
+    '#F7EFE2',
+    '#F25C00',
+    '#F9A603',
     '#579C87'
 ]
 window.addEventListener('mousemove',
@@ -233,10 +233,10 @@ var maxRadius = 40;
 
 var colorArray=[
 
-    '#233D4D',
-    '#FE7F2D',
-    '#FCCA46',
-    '#F25652',
+    '#F70025',
+    '#F7EFE2',
+    '#F25C00',
+    '#F9A603',
     '#579C87'
 ]
 window.addEventListener('mousemove',
